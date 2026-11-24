@@ -6,8 +6,8 @@
 
 ![Github code size in bytes](https://img.shields.io/github/languages/code-size/b1nknet/boj?style=flat-square)
 
-[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ftw_0x00)](https://solved.ac/ftw_0x00)
-![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=ftw_0x00&theme=dark)
+[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?handle=b1nknet)](https://solved.ac/b1nknet)
+![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=b1nknet&theme=dark)
 
 *( [solved.ac](https://solved.ac/ftw_0x00) | [BOJ](https://acmicpc.net/user/ftw_0x00) )*
 
